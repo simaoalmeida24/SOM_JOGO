@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.49/win64" 1671208220
+<REAPER_PROJECT 0.1 "6.49/win64" 1671236286
   <NOTES 0 2
   >
   RIPPLE 0
@@ -16,9 +16,9 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 18
-  ZOOM 9.81264726342146 0 0
-  VZOOMEX 0 124
+  CURSOR 67.5
+  ZOOM 4.9528652760208 0 0
+  VZOOMEX 0 134
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -60,8 +60,8 @@
   GLOBAL_AUTO -1
   TEMPO 120 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 2.5 2.5
-  SELECTION2 2.5 2.5
+  SELECTION 61 61
+  SELECTION2 61 61
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -284,6 +284,72 @@
       >
     >
     <ITEM
+      POSITION 48.24595204022422
+      SNAPOFFS 0
+      LENGTH 0.92498866213154
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F410FA3E-9297-4947-97CD-8A86AF282D82}
+      IID 14
+      NAME tiro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D151C7F6-6D2D-494C-95AB-0FB364086B68}
+      <SOURCE WAVE
+        FILE "C:\Users\simao\Downloads\SOM\JOGO\sons\tiro.wav"
+      >
+    >
+    <ITEM
+      POSITION 49.37702659449874
+      SNAPOFFS 0
+      LENGTH 0.92498866213155
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EEA6EAF0-2CF6-4F91-9DC6-1C2F49A45AFD}
+      IID 14
+      NAME tiro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BDC0AD62-9D60-40B5-B9D6-14798E137834}
+      <SOURCE WAVE
+        FILE "C:\Users\simao\Downloads\SOM\JOGO\sons\tiro.wav"
+      >
+    >
+    <ITEM
+      POSITION 50.3562267155322
+      SNAPOFFS 0
+      LENGTH 0.92498866213155
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B100CD05-C9FF-4207-92F8-1FA36C9BC240}
+      IID 14
+      NAME tiro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6ED8A61D-25BB-4909-8007-D35783C37525}
+      <SOURCE WAVE
+        FILE "C:\Users\simao\Downloads\SOM\JOGO\sons\tiro.wav"
+      >
+    >
+    <ITEM
       POSITION 203
       SNAPOFFS 0
       LENGTH 0.92498866213154
@@ -359,53 +425,6 @@
       >
     >
   >
-  <TRACK {DC5F3ECD-C943-403D-B15B-3951C680D219}
-    NAME piscina
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
-    FREEMODE 0
-    SEL 0
-    REC 0 0 1 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {DC5F3ECD-C943-403D-B15B-3951C680D219}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 0
-      SNAPOFFS 0
-      LENGTH 5.20985416666667
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {A044D9DD-3D8E-4D3A-9BF1-476D077E4332}
-      IID 17
-      NAME piscina.mp3
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {51A0C629-25CA-4786-9028-FC5BA027587C}
-      <SOURCE MP3
-        FILE "C:\Users\simao\Downloads\SOM\JOGO\sons\piscina.mp3" 1
-      >
-    >
-  >
   <TRACK {F18468D7-BAC9-49B6-A304-66DC129188EE}
     NAME piscina01
     PEAKCOL 16576
@@ -433,7 +452,7 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 14
+      LENGTH 9
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
@@ -616,53 +635,6 @@
       >
     >
   >
-  <TRACK {D7510024-E9EF-4899-BF83-2FC63EA3BABA}
-    NAME Porta02
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
-    FREEMODE 0
-    SEL 0
-    REC 0 0 1 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {D7510024-E9EF-4899-BF83-2FC63EA3BABA}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 0
-      SNAPOFFS 0
-      LENGTH 1.68900226757371
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {26EBF231-C5A1-4AA9-AE2B-1A6786008E94}
-      IID 28
-      NAME Porta02.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {DC739FF7-2D09-469D-BC2B-2492786D3C61}
-      <SOURCE WAVE
-        FILE "C:\Users\simao\Downloads\SOM\JOGO\sons\Porta02.wav"
-      >
-    >
-  >
   <TRACK {0A2F7A5B-D455-4E12-BC2B-13DFAEFE636E}
     NAME Porta03
     PEAKCOL 16576
@@ -710,147 +682,6 @@
       >
     >
   >
-  <TRACK {02320FFB-9B2A-41E4-B455-80739BA7920E}
-    NAME Porta04
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
-    FREEMODE 0
-    SEL 0
-    REC 0 0 1 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {02320FFB-9B2A-41E4-B455-80739BA7920E}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 0
-      SNAPOFFS 0
-      LENGTH 2.6790022675737
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {42026C42-ED0A-421D-A1B9-D5CC321C3B6C}
-      IID 30
-      NAME Porta04.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {475916CF-04C4-4DD1-93C5-AE496A244C02}
-      <SOURCE WAVE
-        FILE "C:\Users\simao\Downloads\SOM\JOGO\sons\Porta04.wav"
-      >
-    >
-  >
-  <TRACK {33FACEBB-CCB7-44ED-8BB7-733FF5A0ABAE}
-    NAME Porta05
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
-    FREEMODE 0
-    SEL 1
-    REC 0 0 1 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {33FACEBB-CCB7-44ED-8BB7-733FF5A0ABAE}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 0
-      SNAPOFFS 0
-      LENGTH 2.40297052154195
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {B5D5F4CD-8D62-4DCF-B425-C1BDC02AA084}
-      IID 31
-      NAME Porta05.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {79CE950F-FFD5-42D5-B2FF-724A76199503}
-      <SOURCE WAVE
-        FILE "C:\Users\simao\Downloads\SOM\JOGO\sons\Porta05.wav"
-      >
-    >
-  >
-  <TRACK {0D3A721D-B22A-4871-A42C-4D5E41F88E45}
-    NAME PassosMadeira01
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
-    FREEMODE 0
-    SEL 0
-    REC 0 0 1 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {0D3A721D-B22A-4871-A42C-4D5E41F88E45}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 0
-      SNAPOFFS 0
-      LENGTH 5.93848072562358
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {6E338351-F3C5-4A3B-B3C9-F9FE914D81F2}
-      IID 33
-      NAME PassosMadeira01.mp3
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {7849C856-7CC6-4156-BC08-EC04BAE73634}
-      <SOURCE MP3
-        FILE "C:\Users\simao\Downloads\SOM\JOGO\sons\PassosMadeira01.mp3" 1
-      >
-    >
-  >
   <TRACK {EDF0C9CE-08E3-426A-B023-DF4BE163A3AA}
     NAME PassosMadeira02
     PEAKCOL 16576
@@ -882,7 +713,7 @@
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.5 1 1 0 0
       MUTE 0 0
       SEL 0
       IGUID {26F09FBE-BB1F-4F9A-BF0A-47590A846D20}
@@ -897,239 +728,26 @@
         FILE "C:\Users\simao\Downloads\SOM\JOGO\sons\PassosMadeira02.mp3" 1
       >
     >
-  >
-  <TRACK {C28B4C53-6F3A-4F50-86FC-03C380BE20E5}
-    NAME PassosMadeira04
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
-    FREEMODE 0
-    SEL 0
-    REC 0 0 1 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {C28B4C53-6F3A-4F50-86FC-03C380BE20E5}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
     <ITEM
-      POSITION 0
+      POSITION 7.5
       SNAPOFFS 0
-      LENGTH 8.77122448979591
+      LENGTH 1.5
       LOOP 1
       ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
+      FADEIN 1.1 0.01 0.5 1 1 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {B7F050DC-C4CC-48E2-86A8-B1EDCD290C3B}
-      IID 36
-      NAME PassosMadeira04.mp3
+      IGUID {1027C9E3-BED2-4A13-89B3-0A993DEA444D}
+      IID 34
+      NAME PassosMadeira02.mp3
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {921DD3F5-FB92-470E-993B-EA593BD48931}
+      GUID {63FEAB87-BAE9-4C7B-8AFA-2C4FB32BB473}
       <SOURCE MP3
-        FILE "C:\Users\simao\Downloads\SOM\JOGO\sons\PassosMadeira04.mp3" 1
-      >
-    >
-  >
-  <TRACK {9F4D5613-0B63-46C3-A112-18FA9023E88D}
-    NAME AreiaCorrida
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
-    FREEMODE 0
-    SEL 0
-    REC 0 0 1 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {9F4D5613-0B63-46C3-A112-18FA9023E88D}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 0
-      SNAPOFFS 0
-      LENGTH 11.02471655328798
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {2C52BDF4-6B8E-4657-B71E-C8393872FCE1}
-      IID 37
-      NAME AreiaCorrida.mp3
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {A7959BC3-79AF-40DC-BDBF-99551736D7CD}
-      <SOURCE MP3
-        FILE "C:\Users\simao\Downloads\SOM\JOGO\sons\AreiaCorrida.mp3" 1
-      >
-    >
-  >
-  <TRACK {F4B23FFA-2247-453E-9B9F-FC1305BA0920}
-    NAME AreiaPassos
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
-    FREEMODE 0
-    SEL 0
-    REC 0 0 1 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {F4B23FFA-2247-453E-9B9F-FC1305BA0920}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 0
-      SNAPOFFS 0
-      LENGTH 9.48349206349206
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {FB2F929F-FB2B-46A8-9F42-26C5084C7855}
-      IID 38
-      NAME AreiaPassos.mp3
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {9AE4BC76-E403-4888-9D44-818FAEC4A517}
-      <SOURCE MP3
-        FILE "C:\Users\simao\Downloads\SOM\JOGO\sons\AreiaPassos.mp3" 1
-      >
-    >
-  >
-  <TRACK {550D8276-8A17-4692-8335-2B32DBAE01DF}
-    NAME correrErvas
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
-    FREEMODE 0
-    SEL 0
-    REC 0 0 1 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {550D8276-8A17-4692-8335-2B32DBAE01DF}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 0
-      SNAPOFFS 0
-      LENGTH 11.81283446712018
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {FC979A84-756C-4A27-AAC3-B17D2A045922}
-      IID 39
-      NAME correrErvas.mp3
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {5CDC86FC-B6DA-40F1-AF6C-942CE6DC4A37}
-      <SOURCE MP3
-        FILE "C:\Users\simao\Downloads\SOM\JOGO\sons\correrErvas.mp3" 1
-      >
-    >
-  >
-  <TRACK {D34E013D-F8B6-4611-BACC-59C4B5EDB818}
-    NAME PassosErva
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
-    FREEMODE 0
-    SEL 0
-    REC 0 0 1 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {D34E013D-F8B6-4611-BACC-59C4B5EDB818}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 10.52661284081954
-      SNAPOFFS 0
-      LENGTH 34.20138321995465
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {AAF79BA3-B271-4D47-AFF3-E549A3D9F38E}
-      IID 41
-      NAME PassosErva.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {15F73D4D-3407-46E1-8EAA-0EF4C42313E6}
-      <SOURCE WAVE
-        FILE "C:\Users\simao\Downloads\SOM\JOGO\sons\PassosErva.wav"
+        FILE "C:\Users\simao\Downloads\SOM\JOGO\sons\PassosMadeira02.mp3" 1
       >
     >
   >
@@ -1179,5 +797,350 @@
         FILE "C:\Users\simao\Downloads\SOM\JOGO\sons\MalaCara.wav"
       >
     >
+  >
+  <TRACK {8CB7164B-E52B-40E2-ADDB-80C386A15E8A}
+    NAME correrErvas
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {8CB7164B-E52B-40E2-ADDB-80C386A15E8A}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 10.30730135990202
+      SNAPOFFS 0
+      LENGTH 2.19269864009798
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B46291AF-FF35-459B-8F51-4A63E101359E}
+      IID 47
+      NAME correrErvas.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1CF920A9-E76C-466A-9F03-B9FDDB86BDE0}
+      <SOURCE MP3
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\correrErvas.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 13.39125094168291
+      SNAPOFFS 0
+      LENGTH 2.60874905831709
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FE6439C6-1747-40F3-B657-BC4A8878994C}
+      IID 53
+      NAME correrErvas.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 3.08394958178089
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {83C4BFCA-4379-4596-B122-654F23161BD1}
+      <SOURCE MP3
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\correrErvas.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 16
+      SNAPOFFS 0
+      LENGTH 4.1201358270222
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1A1FB78D-AB6F-491C-AB83-CED17625F031}
+      IID 49
+      NAME correrErvas.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 7.69269864009798
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {425DC0EF-3B72-4084-BDEA-BBA69849E519}
+      <SOURCE MP3
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\correrErvas.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 20.1201358270222
+      SNAPOFFS 0
+      LENGTH 0.8798641729778
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CB8244A0-8C5C-4498-97A9-F668A44BF9D9}
+      IID 47
+      NAME correrErvas.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BE38643F-DD12-45CA-9B73-FED855267639}
+      <SOURCE MP3
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\correrErvas.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 33.39313678200342
+      SNAPOFFS 0
+      LENGTH 2.37702702572049
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {95697205-1C2A-4920-9273-B7670B4A568F}
+      IID 54
+      NAME correrErvas.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0.8798641729778
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0A0A615E-FFE3-47D0-B9EC-E954B596343C}
+      <SOURCE MP3
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\correrErvas.mp3" 1
+      >
+    >
+  >
+  <TRACK {BE37F098-FBD1-44B8-AB71-1226951AA9B5}
+    NAME VidroPartir01
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {BE37F098-FBD1-44B8-AB71-1226951AA9B5}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 48.317097810523
+      SNAPOFFS 0
+      LENGTH 2.13695833333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.073196 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C581B938-52BA-4DE8-BC57-BDF920F5F5B1}
+      IID 57
+      NAME VidroPartir01.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B069D873-55C2-4A3B-B3FB-FE08F07921C9}
+      <SOURCE MP3
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\VidroPartir01.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 50.38086056327688
+      SNAPOFFS 0
+      LENGTH 2.13695833333334
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.073196 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2ABB829F-EB3C-455A-8BDC-118B3E199451}
+      IID 57
+      NAME VidroPartir01.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {212E327A-98F6-45D8-800C-8079FED457A2}
+      <SOURCE MP3
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\VidroPartir01.mp3" 1
+      >
+    >
+  >
+  <TRACK {8F6A4196-C4B9-4F90-A02B-C6CE9368CF05}
+    NAME AbrirPortaFerro00
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {8F6A4196-C4B9-4F90-A02B-C6CE9368CF05}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 55.5
+      SNAPOFFS 0
+      LENGTH 2.92895833333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B3061CA4-9406-447E-A688-FC05F1C2B55E}
+      IID 65
+      NAME AbrirPortaFerro00.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E6085BB4-58EE-4AAB-A010-767C2901AB72}
+      <SOURCE MP3
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\AbrirPortaFerro00.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 69
+      SNAPOFFS 0
+      LENGTH 2.03295077352082
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {F6730B0B-C60A-4C13-B3F8-8DDAE1CBDC2F}
+      IID 65
+      NAME AbrirPortaFerro00.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0.89600755981252
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {91146C45-ADE9-4272-91D8-CACECBCC53FD}
+      <SOURCE MP3
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\AbrirPortaFerro00.mp3" 1
+      >
+    >
+  >
+  <TRACK {AE1B7A2B-B181-422C-9E82-E5353AF5A0EC}
+    NAME ChavesPortaFerro
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {AE1B7A2B-B181-422C-9E82-E5353AF5A0EC}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 54.23665627414422
+      SNAPOFFS 0
+      LENGTH 3.16895833333334
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9D825DA3-8FEB-4346-B4EE-FE9496D10790}
+      IID 68
+      NAME ChavesPortaFerro.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {064673F0-555C-4AFA-A4F9-16E4E4161F84}
+      <SOURCE MP3
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\ChavesPortaFerro.mp3" 1
+      >
+    >
+  >
+  <TRACK {5FC92918-D9B7-4933-9BF1-7C7E11D42C59}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {5FC92918-D9B7-4933-9BF1-7C7E11D42C59}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
   >
 >
