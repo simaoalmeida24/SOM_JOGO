@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.49/win64" 1671239200
+<REAPER_PROJECT 0.1 "6.49/win64" 1671462198
   <NOTES 0 2
   >
   RIPPLE 0
@@ -16,9 +16,9 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 312
-  ZOOM 2.4999242084097 0 0
-  VZOOMEX 0 227
+  CURSOR 183.5
+  ZOOM 37.77513563314757 6580 0
+  VZOOMEX 0 134
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -60,8 +60,8 @@
   GLOBAL_AUTO -1
   TEMPO 120 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 88 88
-  SELECTION2 88 88
+  SELECTION 0 0
+  SELECTION2 0 0
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -180,7 +180,7 @@
       CHANMODE 0
       GUID {58448853-BF83-41FC-B526-A7C2583A5639}
       <SOURCE MP3
-        FILE "C:\Users\simao\Downloads\SOM\JOGO\sons\amb floresta.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\amb floresta.mp3" 1
       >
     >
     <ITEM
@@ -202,7 +202,7 @@
       CHANMODE 0
       GUID {9DCA57DE-B67F-4CB0-8FBA-56E76B7E1BF5}
       <SOURCE MP3
-        FILE "C:\Users\simao\Downloads\SOM\JOGO\sons\amb floresta.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\amb floresta.mp3" 1
       >
     >
   >
@@ -255,7 +255,7 @@
       CHANMODE 0
       GUID {52B3F3BC-AAB0-4C0B-B557-81B18EDD51A6}
       <SOURCE WAVE
-        FILE "C:\Users\simao\Downloads\SOM\JOGO\sons\tiro.wav"
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\tiro.wav"
       >
     >
     <ITEM
@@ -277,7 +277,7 @@
       CHANMODE 0
       GUID {D151C7F6-6D2D-494C-95AB-0FB364086B68}
       <SOURCE WAVE
-        FILE "C:\Users\simao\Downloads\SOM\JOGO\sons\tiro.wav"
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\tiro.wav"
       >
     >
     <ITEM
@@ -299,7 +299,7 @@
       CHANMODE 0
       GUID {BDC0AD62-9D60-40B5-B9D6-14798E137834}
       <SOURCE WAVE
-        FILE "C:\Users\simao\Downloads\SOM\JOGO\sons\tiro.wav"
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\tiro.wav"
       >
     >
     <ITEM
@@ -321,7 +321,29 @@
       CHANMODE 0
       GUID {6ED8A61D-25BB-4909-8007-D35783C37525}
       <SOURCE WAVE
-        FILE "C:\Users\simao\Downloads\SOM\JOGO\sons\tiro.wav"
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\tiro.wav"
+      >
+    >
+    <ITEM
+      POSITION 122.87625396535721
+      SNAPOFFS 0
+      LENGTH 0.92498866213155
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {85C23E65-8DDA-4EE7-8D1C-B0D5E1A808C6}
+      IID 14
+      NAME tiro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FF042FCF-1C36-423A-9DF3-942C37802F3D}
+      <SOURCE WAVE
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\tiro.wav"
       >
     >
     <ITEM
@@ -343,7 +365,7 @@
       CHANMODE 0
       GUID {CEE96AD4-05A9-4AD5-9DCB-F234BE1E18DF}
       <SOURCE WAVE
-        FILE "C:\Users\simao\Downloads\SOM\JOGO\sons\tiro.wav"
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\tiro.wav"
       >
     >
     <ITEM
@@ -365,7 +387,7 @@
       CHANMODE 0
       GUID {4FEAAA0E-3367-41BB-8830-FED46B4A7DFE}
       <SOURCE WAVE
-        FILE "C:\Users\simao\Downloads\SOM\JOGO\sons\tiro.wav"
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\tiro.wav"
       >
     >
   >
@@ -418,7 +440,7 @@
       CHANMODE 0
       GUID {AA0C358E-7BFB-454B-8E1C-492C8ED27EB7}
       <SOURCE WAVE
-        FILE "C:\Users\simao\Downloads\SOM\JOGO\sons\explosao.wav"
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\explosao.wav"
       >
     >
   >
@@ -465,7 +487,7 @@
       CHANMODE 0
       GUID {D1D24DF2-D123-4DB4-A559-1245F13830E9}
       <SOURCE MP3
-        FILE "C:\Users\simao\Downloads\SOM\JOGO\sons\piscina01.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\piscina01.mp3" 1
       >
     >
   >
@@ -512,7 +534,29 @@
       CHANMODE 0
       GUID {D8B3A7C0-3DD0-4DC2-AA24-051A75899256}
       <SOURCE MP3
-        FILE "C:\Users\simao\Downloads\SOM\JOGO\sons\porta.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\porta.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 117.5
+      SNAPOFFS 0
+      LENGTH 0.73260770975057
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A46480B6-7BFF-4E32-A3F5-7374C62951E4}
+      IID 26
+      NAME Porta00.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F9A607B3-42BA-45D8-83A5-8372BFB62130}
+      <SOURCE WAVE
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\Porta00.wav"
       >
     >
   >
@@ -559,7 +603,29 @@
       CHANMODE 0
       GUID {23484257-D32B-4141-A853-D78EF16B0CD7}
       <SOURCE WAVE
-        FILE "C:\Users\simao\Downloads\SOM\JOGO\sons\Porta00.wav"
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\Porta00.wav"
+      >
+    >
+    <ITEM
+      POSITION 134.00300725619309
+      SNAPOFFS 0
+      LENGTH 0.73260770975057
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0FDF5F01-2354-48CE-BDA7-2E4A0B8D06FB}
+      IID 26
+      NAME Porta00.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1B89A9CD-D518-4BD4-92EE-FE393FA2CFBC}
+      <SOURCE WAVE
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\Porta00.wav"
       >
     >
   >
@@ -606,7 +672,7 @@
       CHANMODE 0
       GUID {5C816C62-45E7-4A19-AB59-C1B5206D77EA}
       <SOURCE WAVE
-        FILE "C:\Users\simao\Downloads\SOM\JOGO\sons\Porta01.wav"
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\Porta01.wav"
       >
     >
     <ITEM
@@ -628,7 +694,7 @@
       CHANMODE 0
       GUID {D81417F1-4CFC-4FDD-8366-17A7CE4A6068}
       <SOURCE WAVE
-        FILE "C:\Users\simao\Downloads\SOM\JOGO\sons\Porta01.wav"
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\Porta01.wav"
       >
     >
   >
@@ -675,7 +741,7 @@
       CHANMODE 0
       GUID {C263BB2F-DEEF-41AC-903E-C3EDDD2D82E2}
       <SOURCE WAVE
-        FILE "C:\Users\simao\Downloads\SOM\JOGO\sons\Porta03.wav"
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\Porta03.wav"
       >
     >
   >
@@ -722,7 +788,7 @@
       CHANMODE 0
       GUID {7ACDAE99-781B-48A6-9FA2-A08C20C11184}
       <SOURCE MP3
-        FILE "C:\Users\simao\Downloads\SOM\JOGO\sons\PassosMadeira02.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\PassosMadeira02.mp3" 1
       >
     >
     <ITEM
@@ -744,7 +810,293 @@
       CHANMODE 0
       GUID {63FEAB87-BAE9-4C7B-8AFA-2C4FB32BB473}
       <SOURCE MP3
-        FILE "C:\Users\simao\Downloads\SOM\JOGO\sons\PassosMadeira02.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\PassosMadeira02.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 36.67032991030444
+      SNAPOFFS 0
+      LENGTH 1.52475355385067
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0D4109CA-C851-41B8-993B-C4493193B4ED}
+      IID 34
+      NAME PassosMadeira02.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7D6B60A1-4CC6-475E-A060-E6C3D8A1C6B3}
+      <SOURCE MP3
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\PassosMadeira02.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 73.5
+      SNAPOFFS 0
+      LENGTH 1.0680948217035
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BC2E6EE0-23CE-4A99-AFC5-AA3CDB3566F9}
+      IID 34
+      NAME PassosMadeira02.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C1C031D4-4A92-438A-A4D1-C06AD296F385}
+      <SOURCE MP3
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\PassosMadeira02.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 76.66690463188689
+      SNAPOFFS 0
+      LENGTH 5.83309536811311
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {56568210-29A4-4225-9434-F340E747F052}
+      IID 34
+      NAME PassosMadeira02.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {61321A2D-DEC6-4664-9F9B-16DD71641A67}
+      <SOURCE MP3
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\PassosMadeira02.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 82.5
+      SNAPOFFS 0
+      LENGTH 0.55594750269591
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6B842129-A8A3-459B-8E88-D87194C93D46}
+      IID 97
+      NAME PassosMadeira02.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 7.33309536811311
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9D93F87E-262A-4667-9384-F849DC53B816}
+      <SOURCE MP3
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\PassosMadeira02.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 85.27940892312634
+      SNAPOFFS 0
+      LENGTH 4.45802568171325
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {899F4073-B3FA-4611-93B4-B767303EAA14}
+      IID 34
+      NAME PassosMadeira02.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0282D25A-0459-4848-9E2C-98F2F5957801}
+      <SOURCE MP3
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\PassosMadeira02.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 90.5
+      SNAPOFFS 0
+      LENGTH 2.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DAAEC8CD-8E61-4AEB-8162-36E8697204B8}
+      IID 34
+      NAME PassosMadeira02.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A9921FA4-99B0-4B5E-B06A-C14306173639}
+      <SOURCE MP3
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\PassosMadeira02.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 104.5
+      SNAPOFFS 0
+      LENGTH 6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {90515D5F-1D37-4314-9174-33538EAAA38B}
+      IID 34
+      NAME PassosMadeira02.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E06DD713-591F-4EE8-A2B9-1FC3F2560F8D}
+      <SOURCE MP3
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\PassosMadeira02.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 110.5
+      SNAPOFFS 0
+      LENGTH 5.01160997732427
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F41E4FE1-8FA5-4608-8BF0-61854D60DE66}
+      IID 104
+      NAME PassosMadeira02.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 7.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {86541CB5-E562-4CE2-BE25-130648B4AE57}
+      <SOURCE MP3
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\PassosMadeira02.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 117
+      SNAPOFFS 0
+      LENGTH 1.60439138339073
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3723E476-5CA1-4C2B-991E-FA6A0B756EEF}
+      IID 34
+      NAME PassosMadeira02.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {381EDCE4-E9DF-4B6B-ADA4-57E183809595}
+      <SOURCE MP3
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\PassosMadeira02.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 124
+      SNAPOFFS 0
+      LENGTH 3.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A32D2E45-8611-4A21-9E75-E02D6EE53BE9}
+      IID 34
+      NAME PassosMadeira02.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {06A9FDD5-DA35-4B17-B083-D92A18AF2AAF}
+      <SOURCE MP3
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\PassosMadeira02.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 130
+      SNAPOFFS 0
+      LENGTH 5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {33C0E292-76A3-458B-8525-67DDE3A3EE4D}
+      IID 34
+      NAME PassosMadeira02.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E7CCBD63-B1A7-4CB2-83B5-2ACA5E88C92F}
+      <SOURCE MP3
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\PassosMadeira02.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 136.5
+      SNAPOFFS 0
+      LENGTH 5.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B2A604CC-BCBF-4110-84EA-D7FADE209294}
+      IID 34
+      NAME PassosMadeira02.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CFE525CA-7820-4F02-86CD-D2C583D27416}
+      <SOURCE MP3
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\PassosMadeira02.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 142
+      SNAPOFFS 0
+      LENGTH 1.51085016981799
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AB6DB638-64AB-41FB-A7CA-65BA4AA41B66}
+      IID 115
+      NAME PassosMadeira02.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 7.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EA77B19F-85D5-4F8F-95B0-F79C4352F4A0}
+      <SOURCE MP3
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\PassosMadeira02.mp3" 1
       >
     >
   >
@@ -791,7 +1143,7 @@
       CHANMODE 0
       GUID {ACA6D3C0-2ED3-4641-8CCC-0E8AB1C7DDE6}
       <SOURCE WAVE
-        FILE "C:\Users\simao\Downloads\SOM\JOGO\sons\MalaCara.wav"
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\MalaCara.wav"
       >
     >
   >
@@ -808,7 +1160,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     FREEMODE 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
@@ -908,6 +1260,28 @@
       >
     >
     <ITEM
+      POSITION 25.12550702046588
+      SNAPOFFS 0
+      LENGTH 0.8798641729778
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2ACE11E3-685F-4861-8F1E-6F874FDB9C0B}
+      IID 47
+      NAME correrErvas.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A6B06F09-2833-493A-A3E7-A2A1A82CF598}
+      <SOURCE MP3
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\correrErvas.mp3" 1
+      >
+    >
+    <ITEM
       POSITION 33.39313678200342
       SNAPOFFS 0
       LENGTH 2.37702702572049
@@ -925,6 +1299,248 @@
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {0A0A615E-FFE3-47D0-B9EC-E954B596343C}
+      <SOURCE MP3
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\correrErvas.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 39.38854420841497
+      SNAPOFFS 0
+      LENGTH 1.61145579158503
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {588A3641-9454-4E89-80C3-E9ADA1ADB01C}
+      IID 47
+      NAME correrErvas.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B817843E-43F0-4306-A9FB-43ACED8735D3}
+      <SOURCE MP3
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\correrErvas.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 43.47754410025716
+      SNAPOFFS 0
+      LENGTH 1.30882541035581
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2C76235E-CE92-4B43-8183-DAFA9C2797CF}
+      IID 47
+      NAME correrErvas.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {34A588A2-D789-4D06-8B0A-CB5E96F01ABA}
+      <SOURCE MP3
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\correrErvas.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 49.5
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {403EEAE4-1578-4F24-9929-642C0EC87493}
+      IID 47
+      NAME correrErvas.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {35A3D5AA-0A3B-4967-AAFB-13759C154C5C}
+      <SOURCE MP3
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\correrErvas.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 51.28121537766375
+      SNAPOFFS 0
+      LENGTH 1.41359157754271
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E9134086-484F-46DB-9C00-3CB13D61333B}
+      IID 47
+      NAME correrErvas.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8DC65EC2-C285-4C46-A95E-F776FBFD111E}
+      <SOURCE MP3
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\correrErvas.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 143.51085016981799
+      SNAPOFFS 0
+      LENGTH 5.98914983018201
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1A1F67B6-422F-4ED1-85E8-CBF695516E20}
+      IID 47
+      NAME correrErvas.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B2C41B7B-2365-4C27-B556-EF1CE3A79564}
+      <SOURCE MP3
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\correrErvas.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 149.5
+      SNAPOFFS 0
+      LENGTH 2.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E4D08FBC-2D59-4206-B9B7-0F3558ED7905}
+      IID 47
+      NAME correrErvas.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D2895401-9F27-4249-A5CD-BD55B30D9BFD}
+      <SOURCE MP3
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\correrErvas.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 165.64997707170215
+      SNAPOFFS 0
+      LENGTH 1.12511358500322
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {18577A48-AE2F-45F6-B07C-C49F5937B37C}
+      IID 47
+      NAME correrErvas.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D445C4C2-4D57-4553-BA81-F232D41B25CD}
+      <SOURCE MP3
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\correrErvas.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 167.5
+      SNAPOFFS 0
+      LENGTH 2.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F28DFF13-B73F-4ED2-9205-9B14631CC13F}
+      IID 128
+      NAME correrErvas.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 1.12511358500322
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {662EB795-CE2A-49FC-B1DB-60D09B706943}
+      <SOURCE MP3
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\correrErvas.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 174.81493192084599
+      SNAPOFFS 0
+      LENGTH 0.68506807915401
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {61AE00F0-7F05-45B7-B210-83DDD1D8D31E}
+      IID 128
+      NAME correrErvas.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 1.12511358500322
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8B09AD82-1C53-43E3-929E-61D24752549C}
+      <SOURCE MP3
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\correrErvas.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 176.82732543517002
+      SNAPOFFS 0
+      LENGTH 4.67267456482998
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {059E75E9-E44E-4A7F-9D90-23F1122F9F3A}
+      IID 128
+      NAME correrErvas.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 1.12511358500322
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {33406B62-52A0-44DB-B616-634143130A37}
+      <SOURCE MP3
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\correrErvas.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 181.5
+      SNAPOFFS 0
+      LENGTH 3.64824322332242
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {DDC685BE-C038-42C1-B00C-921A62026A3E}
+      IID 128
+      NAME correrErvas.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 1.12511358500322
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E640C59B-A48B-4598-80D8-DD5521596C27}
       <SOURCE MP3
         FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\correrErvas.mp3" 1
       >
@@ -1012,7 +1628,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
@@ -1065,6 +1681,405 @@
       GUID {91146C45-ADE9-4272-91D8-CACECBCC53FD}
       <SOURCE MP3
         FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\AbrirPortaFerro00.mp3" 1
+      >
+    >
+  >
+  <TRACK {32DDF246-E101-4242-9F24-BCEF82C71ACE}
+    NAME AreiaCorrida
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {32DDF246-E101-4242-9F24-BCEF82C71ACE}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 8.71125840923707
+      SNAPOFFS 0
+      LENGTH 0.88633912440225
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {09A142E8-87BC-4E93-847D-E0D35DAE7D04}
+      IID 78
+      NAME AreiaCorrida.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {712CB08F-07FE-43D4-810F-19E82B7D304E}
+      <SOURCE MP3
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\AreiaCorrida.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 35.7701638077239
+      SNAPOFFS 0
+      LENGTH 0.90016610258053
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E29A64A5-3261-437F-86FF-3DFD3E7C73C6}
+      IID 78
+      NAME AreiaCorrida.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AAE342F2-B685-4D3A-9890-30A9B70F945A}
+      <SOURCE MP3
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\AreiaCorrida.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 38
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B1A82609-D1C0-4DD7-BE56-D1A21914DF2B}
+      IID 78
+      NAME AreiaCorrida.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D47B7EAA-0933-4397-88E6-61EB642B3939}
+      <SOURCE MP3
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\AreiaCorrida.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 52.69480695520646
+      SNAPOFFS 0
+      LENGTH 1.80519304479354
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6553266A-3957-49B9-A2C6-0F93059081AB}
+      IID 78
+      NAME AreiaCorrida.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B468563D-7A2E-40C2-A040-1F88ABFDBB69}
+      <SOURCE MP3
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\AreiaCorrida.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 57.04420221585024
+      SNAPOFFS 0
+      LENGTH 0.95579778414976
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {10B700C0-BBBD-4434-A143-D25B3A120944}
+      IID 78
+      NAME AreiaCorrida.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FED86317-301E-4678-9A32-352C340302C4}
+      <SOURCE MP3
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\AreiaCorrida.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 59.79054197706905
+      SNAPOFFS 0
+      LENGTH 1.80519304479354
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F4134593-6EE4-49B6-84D7-35BCFAD131DA}
+      IID 78
+      NAME AreiaCorrida.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C92C9022-C33F-4329-A93E-2F11B95EFBD9}
+      <SOURCE MP3
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\AreiaCorrida.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 63.5
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {02B8A192-88BB-44F8-A910-2D780972DD3F}
+      IID 78
+      NAME AreiaCorrida.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D9E71769-0CE9-42F2-B1C6-01BA39477C25}
+      <SOURCE MP3
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\AreiaCorrida.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 64.96875511463429
+      SNAPOFFS 0
+      LENGTH 0.83624908985136
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D1118B6A-DB85-4BC1-B981-624D417B2BC7}
+      IID 78
+      NAME AreiaCorrida.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {75B62F45-6A62-4E39-825F-A1DAC51B1398}
+      <SOURCE MP3
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\AreiaCorrida.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 67.98763240940916
+      SNAPOFFS 0
+      LENGTH 5.51236759059084
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EDF4C452-A277-4380-9495-83BAE5CF33D0}
+      IID 78
+      NAME AreiaCorrida.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BDF3F632-6620-4526-9256-099789371836}
+      <SOURCE MP3
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\AreiaCorrida.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 74.5680948217035
+      SNAPOFFS 0
+      LENGTH 2.0988098101834
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3D6CC267-9F72-4649-9FB2-8C08FB4414EE}
+      IID 78
+      NAME AreiaCorrida.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E496649B-BF6E-41C6-A5E5-71599664D45C}
+      <SOURCE MP3
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\AreiaCorrida.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 83
+      SNAPOFFS 0
+      LENGTH 2.27940892312634
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {75926CA3-B667-4E16-ADB1-8C351E76C843}
+      IID 78
+      NAME AreiaCorrida.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {207504EF-45FF-4B9E-BD37-99C2F6E5AC39}
+      <SOURCE MP3
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\AreiaCorrida.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 115.51160997732427
+      SNAPOFFS 0
+      LENGTH 1.48839002267573
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F662377A-06EA-4164-91D7-423B224979AA}
+      IID 78
+      NAME AreiaCorrida.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E8F55145-C484-4392-AFCA-7ECF0CDAB688}
+      <SOURCE MP3
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\AreiaCorrida.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 127.5
+      SNAPOFFS 0
+      LENGTH 2.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A422DAFF-2BFC-4791-B06C-18CCA07FF835}
+      IID 78
+      NAME AreiaCorrida.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AC3F582D-916A-4D8C-86B6-645C04111318}
+      <SOURCE MP3
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\AreiaCorrida.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 135
+      SNAPOFFS 0
+      LENGTH 1.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {90127386-80C9-4DC2-815D-BA4FAD994334}
+      IID 78
+      NAME AreiaCorrida.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F54C28EC-1D6E-4FC7-BDEA-1CAE762FDACC}
+      <SOURCE MP3
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\AreiaCorrida.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 155.53712852513581
+      SNAPOFFS 0
+      LENGTH 2.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B4D7ACBC-3E67-4348-B17F-902EBE2862C7}
+      IID 78
+      NAME AreiaCorrida.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1845DC87-3AEB-404E-9832-C8A24E601923}
+      <SOURCE MP3
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\AreiaCorrida.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 163.34032372500124
+      SNAPOFFS 0
+      LENGTH 2.30965334670091
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C582C9A8-8177-4854-A7DF-DE45F19289F7}
+      IID 78
+      NAME AreiaCorrida.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CDDF3E25-049C-45EC-A148-1E38C5066DC0}
+      <SOURCE MP3
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\AreiaCorrida.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 166.77509065670537
+      SNAPOFFS 0
+      LENGTH 0.72490934329463
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D3544D58-D90E-4AA3-9DA6-4F85A4D0CE15}
+      IID 78
+      NAME AreiaCorrida.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {523B9E12-7DA3-45F6-89A1-F7BEB0AE3871}
+      <SOURCE MP3
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\AreiaCorrida.mp3" 1
       >
     >
   >
@@ -1251,6 +2266,28 @@
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {6DCDA23D-2AE6-40E4-877C-659F90F88067}
+      <SOURCE MP3
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\AndarNaAgua.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 160.12634000798101
+      SNAPOFFS 0
+      LENGTH 0.61933010418633
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DA9A6F92-9680-410C-BB99-26D3AE02CAB5}
+      IID 73
+      NAME AndarNaAgua.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A0E32CD2-8073-4872-939D-769033F25DB8}
       <SOURCE MP3
         FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\AndarNaAgua.mp3" 1
       >
