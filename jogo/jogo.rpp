@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.58/win64" 1671758939
+<REAPER_PROJECT 0.1 "6.49/win64" 1671759447
   <NOTES 0 2
   >
   RIPPLE 0
@@ -16,9 +16,9 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 162.5
-  ZOOM 18.80253799712277 2634 0
-  VZOOMEX 2 600
+  CURSOR 195
+  ZOOM 52.43375784271532 9133 0
+  VZOOMEX 2 1178
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -60,8 +60,8 @@
   GLOBAL_AUTO -1
   TEMPO 120 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 30 30
-  SELECTION2 30 30
+  SELECTION 0 0
+  SELECTION2 0 0
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -102,6 +102,7 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
     SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
@@ -148,6 +149,7 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
     SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
@@ -178,7 +180,7 @@
       CHANMODE 0
       GUID {58448853-BF83-41FC-B526-A7C2583A5639}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\amb floresta.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\amb floresta.mp3" 1
       >
     >
     <ITEM
@@ -200,7 +202,7 @@
       CHANMODE 0
       GUID {9DCA57DE-B67F-4CB0-8FBA-56E76B7E1BF5}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\amb floresta.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\amb floresta.mp3" 1
       >
     >
   >
@@ -216,6 +218,7 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
     SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
@@ -252,7 +255,7 @@
       CHANMODE 0
       GUID {52B3F3BC-AAB0-4C0B-B557-81B18EDD51A6}
       <SOURCE WAVE
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\tiro.wav"
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\tiro.wav"
       >
     >
     <ITEM
@@ -274,7 +277,7 @@
       CHANMODE 0
       GUID {D151C7F6-6D2D-494C-95AB-0FB364086B68}
       <SOURCE WAVE
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\tiro.wav"
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\tiro.wav"
       >
     >
     <ITEM
@@ -296,7 +299,7 @@
       CHANMODE 0
       GUID {BDC0AD62-9D60-40B5-B9D6-14798E137834}
       <SOURCE WAVE
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\tiro.wav"
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\tiro.wav"
       >
     >
     <ITEM
@@ -318,7 +321,7 @@
       CHANMODE 0
       GUID {6ED8A61D-25BB-4909-8007-D35783C37525}
       <SOURCE WAVE
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\tiro.wav"
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\tiro.wav"
       >
     >
     <ITEM
@@ -340,7 +343,7 @@
       CHANMODE 0
       GUID {FF042FCF-1C36-423A-9DF3-942C37802F3D}
       <SOURCE WAVE
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\tiro.wav"
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\tiro.wav"
       >
     >
     <ITEM
@@ -362,7 +365,7 @@
       CHANMODE 0
       GUID {CEE96AD4-05A9-4AD5-9DCB-F234BE1E18DF}
       <SOURCE WAVE
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\tiro.wav"
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\tiro.wav"
       >
     >
     <ITEM
@@ -384,7 +387,7 @@
       CHANMODE 0
       GUID {4FEAAA0E-3367-41BB-8830-FED46B4A7DFE}
       <SOURCE WAVE
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\tiro.wav"
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\tiro.wav"
       >
     >
     <ITEM
@@ -406,7 +409,7 @@
       CHANMODE 0
       GUID {A10C2ECE-2A2F-42CD-8561-D9C0AE7FEB95}
       <SOURCE WAVE
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\tiro.wav"
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\tiro.wav"
       >
     >
   >
@@ -422,6 +425,7 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
     SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
@@ -458,7 +462,7 @@
       CHANMODE 0
       GUID {AA0C358E-7BFB-454B-8E1C-492C8ED27EB7}
       <SOURCE WAVE
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\explosao.wav"
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\explosao.wav"
       >
     >
   >
@@ -474,6 +478,7 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
     SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
@@ -504,7 +509,7 @@
       CHANMODE 0
       GUID {D1D24DF2-D123-4DB4-A559-1245F13830E9}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\piscina01.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\piscina01.mp3" 1
       >
     >
   >
@@ -520,6 +525,7 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
     SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
@@ -550,7 +556,7 @@
       CHANMODE 0
       GUID {D8B3A7C0-3DD0-4DC2-AA24-051A75899256}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\porta.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\porta.mp3" 1
       >
     >
     <ITEM
@@ -572,7 +578,7 @@
       CHANMODE 0
       GUID {F9A607B3-42BA-45D8-83A5-8372BFB62130}
       <SOURCE WAVE
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\Porta00.wav"
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\Porta00.wav"
       >
     >
   >
@@ -588,6 +594,7 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
     SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
@@ -618,7 +625,7 @@
       CHANMODE 0
       GUID {23484257-D32B-4141-A853-D78EF16B0CD7}
       <SOURCE WAVE
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\Porta00.wav"
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\Porta00.wav"
       >
     >
     <ITEM
@@ -640,7 +647,7 @@
       CHANMODE 0
       GUID {1B89A9CD-D518-4BD4-92EE-FE393FA2CFBC}
       <SOURCE WAVE
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\Porta00.wav"
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\Porta00.wav"
       >
     >
   >
@@ -656,6 +663,7 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
     SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
@@ -686,7 +694,7 @@
       CHANMODE 0
       GUID {5C816C62-45E7-4A19-AB59-C1B5206D77EA}
       <SOURCE WAVE
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\Porta01.wav"
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\Porta01.wav"
       >
     >
     <ITEM
@@ -708,7 +716,7 @@
       CHANMODE 0
       GUID {1459F834-4D26-45F6-BA86-7BE3FBFC7EC7}
       <SOURCE WAVE
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\Porta01.wav"
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\Porta01.wav"
       >
     >
     <ITEM
@@ -730,7 +738,7 @@
       CHANMODE 0
       GUID {D81417F1-4CFC-4FDD-8366-17A7CE4A6068}
       <SOURCE WAVE
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\Porta01.wav"
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\Porta01.wav"
       >
     >
   >
@@ -746,6 +754,7 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
     SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
@@ -776,7 +785,7 @@
       CHANMODE 0
       GUID {C263BB2F-DEEF-41AC-903E-C3EDDD2D82E2}
       <SOURCE WAVE
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\Porta03.wav"
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\Porta03.wav"
       >
     >
   >
@@ -792,6 +801,7 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
     SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
@@ -822,7 +832,7 @@
       CHANMODE 0
       GUID {7ACDAE99-781B-48A6-9FA2-A08C20C11184}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\PassosMadeira02.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\PassosMadeira02.mp3" 1
       >
     >
     <ITEM
@@ -844,7 +854,7 @@
       CHANMODE 0
       GUID {63FEAB87-BAE9-4C7B-8AFA-2C4FB32BB473}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\PassosMadeira02.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\PassosMadeira02.mp3" 1
       >
     >
     <ITEM
@@ -866,7 +876,7 @@
       CHANMODE 0
       GUID {7D6B60A1-4CC6-475E-A060-E6C3D8A1C6B3}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\PassosMadeira02.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\PassosMadeira02.mp3" 1
       >
     >
     <ITEM
@@ -888,7 +898,7 @@
       CHANMODE 0
       GUID {C1C031D4-4A92-438A-A4D1-C06AD296F385}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\PassosMadeira02.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\PassosMadeira02.mp3" 1
       >
     >
     <ITEM
@@ -910,7 +920,7 @@
       CHANMODE 0
       GUID {61321A2D-DEC6-4664-9F9B-16DD71641A67}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\PassosMadeira02.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\PassosMadeira02.mp3" 1
       >
     >
     <ITEM
@@ -932,7 +942,7 @@
       CHANMODE 0
       GUID {9D93F87E-262A-4667-9384-F849DC53B816}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\PassosMadeira02.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\PassosMadeira02.mp3" 1
       >
     >
     <ITEM
@@ -954,7 +964,7 @@
       CHANMODE 0
       GUID {0282D25A-0459-4848-9E2C-98F2F5957801}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\PassosMadeira02.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\PassosMadeira02.mp3" 1
       >
     >
     <ITEM
@@ -976,7 +986,7 @@
       CHANMODE 0
       GUID {A9921FA4-99B0-4B5E-B06A-C14306173639}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\PassosMadeira02.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\PassosMadeira02.mp3" 1
       >
     >
     <ITEM
@@ -998,7 +1008,7 @@
       CHANMODE 0
       GUID {E06DD713-591F-4EE8-A2B9-1FC3F2560F8D}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\PassosMadeira02.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\PassosMadeira02.mp3" 1
       >
     >
     <ITEM
@@ -1020,7 +1030,7 @@
       CHANMODE 0
       GUID {86541CB5-E562-4CE2-BE25-130648B4AE57}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\PassosMadeira02.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\PassosMadeira02.mp3" 1
       >
     >
     <ITEM
@@ -1042,7 +1052,7 @@
       CHANMODE 0
       GUID {381EDCE4-E9DF-4B6B-ADA4-57E183809595}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\PassosMadeira02.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\PassosMadeira02.mp3" 1
       >
     >
     <ITEM
@@ -1064,7 +1074,7 @@
       CHANMODE 0
       GUID {06A9FDD5-DA35-4B17-B083-D92A18AF2AAF}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\PassosMadeira02.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\PassosMadeira02.mp3" 1
       >
     >
     <ITEM
@@ -1086,7 +1096,7 @@
       CHANMODE 0
       GUID {E7CCBD63-B1A7-4CB2-83B5-2ACA5E88C92F}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\PassosMadeira02.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\PassosMadeira02.mp3" 1
       >
     >
     <ITEM
@@ -1108,7 +1118,7 @@
       CHANMODE 0
       GUID {CFE525CA-7820-4F02-86CD-D2C583D27416}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\PassosMadeira02.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\PassosMadeira02.mp3" 1
       >
     >
     <ITEM
@@ -1130,7 +1140,7 @@
       CHANMODE 0
       GUID {EA77B19F-85D5-4F8F-95B0-F79C4352F4A0}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\PassosMadeira02.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\PassosMadeira02.mp3" 1
       >
     >
     <ITEM
@@ -1152,7 +1162,7 @@
       CHANMODE 0
       GUID {21730A15-6116-4C3A-A084-E33915F4907B}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\PassosMadeira02.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\PassosMadeira02.mp3" 1
       >
     >
   >
@@ -1168,6 +1178,7 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
     SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
@@ -1198,7 +1209,7 @@
       CHANMODE 0
       GUID {ACA6D3C0-2ED3-4641-8CCC-0E8AB1C7DDE6}
       <SOURCE WAVE
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\MalaCara.wav"
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\MalaCara.wav"
       >
     >
   >
@@ -1214,6 +1225,7 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
     SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
@@ -1244,7 +1256,7 @@
       CHANMODE 0
       GUID {1CF920A9-E76C-466A-9F03-B9FDDB86BDE0}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\correrErvas.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\correrErvas.mp3" 1
       >
     >
     <ITEM
@@ -1266,7 +1278,7 @@
       CHANMODE 0
       GUID {83C4BFCA-4379-4596-B122-654F23161BD1}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\correrErvas.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\correrErvas.mp3" 1
       >
     >
     <ITEM
@@ -1288,7 +1300,7 @@
       CHANMODE 0
       GUID {425DC0EF-3B72-4084-BDEA-BBA69849E519}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\correrErvas.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\correrErvas.mp3" 1
       >
     >
     <ITEM
@@ -1310,7 +1322,7 @@
       CHANMODE 0
       GUID {BE38643F-DD12-45CA-9B73-FED855267639}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\correrErvas.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\correrErvas.mp3" 1
       >
     >
     <ITEM
@@ -1332,7 +1344,7 @@
       CHANMODE 0
       GUID {A6B06F09-2833-493A-A3E7-A2A1A82CF598}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\correrErvas.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\correrErvas.mp3" 1
       >
     >
     <ITEM
@@ -1354,7 +1366,7 @@
       CHANMODE 0
       GUID {0A0A615E-FFE3-47D0-B9EC-E954B596343C}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\correrErvas.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\correrErvas.mp3" 1
       >
     >
     <ITEM
@@ -1376,7 +1388,7 @@
       CHANMODE 0
       GUID {B817843E-43F0-4306-A9FB-43ACED8735D3}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\correrErvas.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\correrErvas.mp3" 1
       >
     >
     <ITEM
@@ -1398,7 +1410,7 @@
       CHANMODE 0
       GUID {34A588A2-D789-4D06-8B0A-CB5E96F01ABA}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\correrErvas.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\correrErvas.mp3" 1
       >
     >
     <ITEM
@@ -1420,7 +1432,7 @@
       CHANMODE 0
       GUID {35A3D5AA-0A3B-4967-AAFB-13759C154C5C}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\correrErvas.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\correrErvas.mp3" 1
       >
     >
     <ITEM
@@ -1442,7 +1454,7 @@
       CHANMODE 0
       GUID {8DC65EC2-C285-4C46-A95E-F776FBFD111E}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\correrErvas.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\correrErvas.mp3" 1
       >
     >
     <ITEM
@@ -1464,7 +1476,7 @@
       CHANMODE 0
       GUID {B2C41B7B-2365-4C27-B556-EF1CE3A79564}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\correrErvas.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\correrErvas.mp3" 1
       >
     >
     <ITEM
@@ -1486,7 +1498,7 @@
       CHANMODE 0
       GUID {D2895401-9F27-4249-A5CD-BD55B30D9BFD}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\correrErvas.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\correrErvas.mp3" 1
       >
     >
     <ITEM
@@ -1508,7 +1520,7 @@
       CHANMODE 0
       GUID {D445C4C2-4D57-4553-BA81-F232D41B25CD}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\correrErvas.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\correrErvas.mp3" 1
       >
     >
     <ITEM
@@ -1530,7 +1542,7 @@
       CHANMODE 0
       GUID {662EB795-CE2A-49FC-B1DB-60D09B706943}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\correrErvas.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\correrErvas.mp3" 1
       >
     >
     <ITEM
@@ -1552,7 +1564,7 @@
       CHANMODE 0
       GUID {8B09AD82-1C53-43E3-929E-61D24752549C}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\correrErvas.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\correrErvas.mp3" 1
       >
     >
     <ITEM
@@ -1574,7 +1586,7 @@
       CHANMODE 0
       GUID {33406B62-52A0-44DB-B616-634143130A37}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\correrErvas.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\correrErvas.mp3" 1
       >
     >
     <ITEM
@@ -1596,7 +1608,7 @@
       CHANMODE 0
       GUID {E640C59B-A48B-4598-80D8-DD5521596C27}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\correrErvas.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\correrErvas.mp3" 1
       >
     >
   >
@@ -1612,6 +1624,7 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
     SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
@@ -1642,7 +1655,7 @@
       CHANMODE 0
       GUID {B069D873-55C2-4A3B-B3FB-FE08F07921C9}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\VidroPartir01.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\VidroPartir01.mp3" 1
       >
     >
     <ITEM
@@ -1664,7 +1677,7 @@
       CHANMODE 0
       GUID {212E327A-98F6-45D8-800C-8079FED457A2}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\VidroPartir01.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\VidroPartir01.mp3" 1
       >
     >
   >
@@ -1680,6 +1693,7 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
     SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
@@ -1710,7 +1724,7 @@
       CHANMODE 0
       GUID {E6085BB4-58EE-4AAB-A010-767C2901AB72}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\AbrirPortaFerro00.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\AbrirPortaFerro00.mp3" 1
       >
     >
     <ITEM
@@ -1732,7 +1746,7 @@
       CHANMODE 0
       GUID {91146C45-ADE9-4272-91D8-CACECBCC53FD}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\AbrirPortaFerro00.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\AbrirPortaFerro00.mp3" 1
       >
     >
   >
@@ -1748,6 +1762,7 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
     SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
@@ -1778,7 +1793,7 @@
       CHANMODE 0
       GUID {712CB08F-07FE-43D4-810F-19E82B7D304E}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\AreiaCorrida.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\AreiaCorrida.mp3" 1
       >
     >
     <ITEM
@@ -1800,7 +1815,7 @@
       CHANMODE 0
       GUID {AAE342F2-B685-4D3A-9890-30A9B70F945A}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\AreiaCorrida.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\AreiaCorrida.mp3" 1
       >
     >
     <ITEM
@@ -1822,7 +1837,7 @@
       CHANMODE 0
       GUID {D47B7EAA-0933-4397-88E6-61EB642B3939}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\AreiaCorrida.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\AreiaCorrida.mp3" 1
       >
     >
     <ITEM
@@ -1844,7 +1859,7 @@
       CHANMODE 0
       GUID {B468563D-7A2E-40C2-A040-1F88ABFDBB69}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\AreiaCorrida.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\AreiaCorrida.mp3" 1
       >
     >
     <ITEM
@@ -1866,7 +1881,7 @@
       CHANMODE 0
       GUID {FED86317-301E-4678-9A32-352C340302C4}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\AreiaCorrida.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\AreiaCorrida.mp3" 1
       >
     >
     <ITEM
@@ -1888,7 +1903,7 @@
       CHANMODE 0
       GUID {C92C9022-C33F-4329-A93E-2F11B95EFBD9}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\AreiaCorrida.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\AreiaCorrida.mp3" 1
       >
     >
     <ITEM
@@ -1910,7 +1925,7 @@
       CHANMODE 0
       GUID {D9E71769-0CE9-42F2-B1C6-01BA39477C25}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\AreiaCorrida.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\AreiaCorrida.mp3" 1
       >
     >
     <ITEM
@@ -1932,7 +1947,7 @@
       CHANMODE 0
       GUID {75B62F45-6A62-4E39-825F-A1DAC51B1398}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\AreiaCorrida.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\AreiaCorrida.mp3" 1
       >
     >
     <ITEM
@@ -1954,7 +1969,7 @@
       CHANMODE 0
       GUID {BDF3F632-6620-4526-9256-099789371836}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\AreiaCorrida.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\AreiaCorrida.mp3" 1
       >
     >
     <ITEM
@@ -1976,7 +1991,7 @@
       CHANMODE 0
       GUID {E496649B-BF6E-41C6-A5E5-71599664D45C}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\AreiaCorrida.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\AreiaCorrida.mp3" 1
       >
     >
     <ITEM
@@ -1998,7 +2013,7 @@
       CHANMODE 0
       GUID {207504EF-45FF-4B9E-BD37-99C2F6E5AC39}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\AreiaCorrida.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\AreiaCorrida.mp3" 1
       >
     >
     <ITEM
@@ -2020,7 +2035,7 @@
       CHANMODE 0
       GUID {E8F55145-C484-4392-AFCA-7ECF0CDAB688}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\AreiaCorrida.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\AreiaCorrida.mp3" 1
       >
     >
     <ITEM
@@ -2042,7 +2057,7 @@
       CHANMODE 0
       GUID {AC3F582D-916A-4D8C-86B6-645C04111318}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\AreiaCorrida.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\AreiaCorrida.mp3" 1
       >
     >
     <ITEM
@@ -2064,7 +2079,7 @@
       CHANMODE 0
       GUID {F54C28EC-1D6E-4FC7-BDEA-1CAE762FDACC}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\AreiaCorrida.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\AreiaCorrida.mp3" 1
       >
     >
     <ITEM
@@ -2086,7 +2101,7 @@
       CHANMODE 0
       GUID {1845DC87-3AEB-404E-9832-C8A24E601923}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\AreiaCorrida.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\AreiaCorrida.mp3" 1
       >
     >
     <ITEM
@@ -2108,7 +2123,7 @@
       CHANMODE 0
       GUID {CDDF3E25-049C-45EC-A148-1E38C5066DC0}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\AreiaCorrida.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\AreiaCorrida.mp3" 1
       >
     >
     <ITEM
@@ -2130,7 +2145,7 @@
       CHANMODE 0
       GUID {523B9E12-7DA3-45F6-89A1-F7BEB0AE3871}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\AreiaCorrida.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\AreiaCorrida.mp3" 1
       >
     >
     <ITEM
@@ -2152,7 +2167,7 @@
       CHANMODE 0
       GUID {3C2100FE-A039-4FAC-94F9-1955D4006A7C}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\AreiaCorrida.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\AreiaCorrida.mp3" 1
       >
     >
   >
@@ -2168,6 +2183,7 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
     SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
@@ -2198,7 +2214,7 @@
       CHANMODE 0
       GUID {064673F0-555C-4AFA-A4F9-16E4E4161F84}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\ChavesPortaFerro.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\ChavesPortaFerro.mp3" 1
       >
     >
   >
@@ -2214,6 +2230,7 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
     SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
@@ -2244,7 +2261,7 @@
       CHANMODE 0
       GUID {1E96A766-E3F4-489F-8AF0-E355BB586D15}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\ChavesPortaFerro.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\ChavesPortaFerro.mp3" 1
       >
     >
   >
@@ -2260,6 +2277,7 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
     SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
@@ -2290,7 +2308,7 @@
       CHANMODE 0
       GUID {21D76404-E1CD-4249-8C69-23F4DC959F2B}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\Botao.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\Botao.mp3" 1
       >
     >
   >
@@ -2306,6 +2324,7 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
     SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
@@ -2336,7 +2355,7 @@
       CHANMODE 0
       GUID {99F8535E-5884-4673-9140-7CA813B7A4B1}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\MotaAgua.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\MotaAgua.mp3" 1
       >
     >
   >
@@ -2352,7 +2371,8 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
-    SEL 1
+    FREEMODE 0
+    SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
@@ -2382,7 +2402,7 @@
       CHANMODE 0
       GUID {C8B528DB-BD45-467C-B5A7-99F234CDB948}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\AndarNaAgua.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\AndarNaAgua.mp3" 1
       >
     >
   >
@@ -2398,6 +2418,7 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
     SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
@@ -2428,7 +2449,7 @@
       CHANMODE 0
       GUID {69F82F45-AC8F-45F7-9FB2-F5D6E0A442CD}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\Chuveiro.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\Chuveiro.mp3" 1
       >
     >
     <ITEM
@@ -2450,7 +2471,7 @@
       CHANMODE 0
       GUID {CE1449A5-FBBE-492F-8ADB-2E339653C558}
       <SOURCE WAVE
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\radio.wav"
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\radio.wav"
       >
     >
   >
@@ -2466,6 +2487,7 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
     SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
@@ -2496,7 +2518,29 @@
       CHANMODE 0
       GUID {002980E2-30F7-4C56-910F-1ED20F9A83F6}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\AtirarAlgo.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\AtirarAlgo.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 192.12813299055946
+      SNAPOFFS 0
+      LENGTH 2.11295833333332
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8E180267-AE8C-4304-B5F4-8031B02A0657}
+      IID 166
+      NAME AtirarAlgo.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C5DC41AE-F51C-4C9C-B430-42FD7A08E13F}
+      <SOURCE MP3
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\AtirarAlgo.mp3" 1
       >
     >
   >
@@ -2512,7 +2556,8 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
-    SEL 0
+    FREEMODE 0
+    SEL 1
     REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
@@ -2542,7 +2587,7 @@
       CHANMODE 0
       GUID {0F87CC32-6FAA-4A1A-A143-7D503A267AD6}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\somMadeira.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\somMadeira.mp3" 1
       >
     >
     <ITEM
@@ -2564,7 +2609,7 @@
       CHANMODE 0
       GUID {F7D1BB07-899E-4D8B-9204-46FBA32D9DBF}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\somMadeira.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\somMadeira.mp3" 1
       >
     >
   >
@@ -2580,6 +2625,7 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
     SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
@@ -2610,7 +2656,7 @@
       CHANMODE 0
       GUID {94E4713A-BCBA-4A0A-B70F-1D2584AB3443}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\somMadeira.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\somMadeira.mp3" 1
       >
     >
   >
@@ -2626,6 +2672,7 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
     SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
@@ -2656,7 +2703,7 @@
       CHANMODE 0
       GUID {D5120BB5-8E69-4D82-9868-6D46DE89EC1E}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\aguaPassos01.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\aguaPassos01.mp3" 1
       >
     >
     <ITEM
@@ -2678,7 +2725,7 @@
       CHANMODE 0
       GUID {DD8399E4-E7B5-4367-B48C-1CE22CB68F8C}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\aguaPassos01.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\aguaPassos01.mp3" 1
       >
     >
     <ITEM
@@ -2700,7 +2747,7 @@
       CHANMODE 0
       GUID {9E7C8D8C-A526-47A6-9686-E303CA98F91A}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\aguaPassos01.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\aguaPassos01.mp3" 1
       >
     >
     <ITEM
@@ -2722,7 +2769,7 @@
       CHANMODE 0
       GUID {ADB717CF-8F6E-41C0-A879-62C5C6C3C202}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\aguaPassos01.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\aguaPassos01.mp3" 1
       >
     >
     <ITEM
@@ -2744,7 +2791,7 @@
       CHANMODE 0
       GUID {5EF55BE1-B196-4F35-B5A1-7D6E0771E2A1}
       <SOURCE MP3
-        FILE "D:\ESMAD_multimedia\2ANO\1semestre\SOM\Jogo_Sonoridade\github\SOM_JOGO\SOM_JOGO\sons\aguaPassos01.mp3" 1
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\aguaPassos01.mp3" 1
       >
     >
   >
