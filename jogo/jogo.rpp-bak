@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.49/win64" 1671462203
+<REAPER_PROJECT 0.1 "6.49/win64" 1671543729
   <NOTES 0 2
   >
   RIPPLE 0
@@ -16,9 +16,9 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 183.5
-  ZOOM 1.23753550854021 0 0
-  VZOOMEX 0 10
+  CURSOR 220.9106091373875
+  ZOOM 9.62380217184504 1882 0
+  VZOOMEX 0 196
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -386,6 +386,28 @@
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {4FEAAA0E-3367-41BB-8830-FED46B4A7DFE}
+      <SOURCE WAVE
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\tiro.wav"
+      >
+    >
+    <ITEM
+      POSITION 212.21897841304695
+      SNAPOFFS 0
+      LENGTH 0.92498866213154
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {ED329E1F-B5B2-4D47-8237-0213F5CC151D}
+      IID 14
+      NAME tiro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A10C2ECE-2A2F-42CD-8561-D9C0AE7FEB95}
       <SOURCE WAVE
         FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\tiro.wav"
       >
@@ -1099,6 +1121,28 @@
         FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\PassosMadeira02.mp3" 1
       >
     >
+    <ITEM
+      POSITION 213.42915859271307
+      SNAPOFFS 0
+      LENGTH 3.6368162370153
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {874F5DAC-9AAE-46BD-973B-D6A5563B81D9}
+      IID 34
+      NAME PassosMadeira02.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {21730A15-6116-4C3A-A084-E33915F4907B}
+      <SOURCE MP3
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\PassosMadeira02.mp3" 1
+      >
+    >
   >
   <TRACK {03AFDA2D-59D2-438B-B777-723A78B34AA5}
     NAME MalaCara
@@ -1160,7 +1204,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
@@ -1532,7 +1576,7 @@
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {DDC685BE-C038-42C1-B00C-921A62026A3E}
       IID 128
       NAME correrErvas.mp3
@@ -1697,7 +1741,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     FREEMODE 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
@@ -2082,6 +2126,28 @@
         FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\AreiaCorrida.mp3" 1
       >
     >
+    <ITEM
+      POSITION 217
+      SNAPOFFS 0
+      LENGTH 5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {FE79CC0A-688A-43C3-B1FD-7D25A3EB9F8E}
+      IID 78
+      NAME AreiaCorrida.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3C2100FE-A039-4FAC-94F9-1955D4006A7C}
+      <SOURCE MP3
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\AreiaCorrida.mp3" 1
+      >
+    >
   >
   <TRACK {AE1B7A2B-B181-422C-9E82-E5353AF5A0EC}
     NAME ChavesPortaFerro
@@ -2381,6 +2447,28 @@
       GUID {69F82F45-AC8F-45F7-9FB2-F5D6E0A442CD}
       <SOURCE MP3
         FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\Chuveiro.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 192.37692000616735
+      SNAPOFFS 0
+      LENGTH 14.32734818920073
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3209B5E2-D2C8-4EE7-959B-DEC387396170}
+      IID 164
+      NAME radio.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CE1449A5-FBBE-492F-8ADB-2E339653C558}
+      <SOURCE WAVE
+        FILE "C:\Users\simao\Downloads\SOM_JOGO\sons\radio.wav"
       >
     >
   >
